@@ -1,0 +1,1 @@
+"Leveling up in database skills with Lab 4! Mastering GROUP BY, HAVING, and aggregate functions like MIN, MAX, COUNT, SUM, STDDEV, and MEAN, AND AS command. Every command signed for data exploration. Check out my progress on GitHub! #DatabaseSkills #SQLMastery"
